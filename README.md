@@ -1,11 +1,12 @@
-# Vinícius Ribeiro :man_technologist: <code><img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/java/java_24x24.png"></code> <code><img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/go-old/go-old_24x24.png"></code>
+ # Vinícius Ribeiro :man_technologist:
+  <!-- <code><img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/java/java_24x24.png"></code> <code><img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/go-old/go-old_24x24.png"></code> -->
 
 [![Vinicius Github Status](https://github-readme-stats.vercel.app/api?username=vinirib&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/vinirib)](https://github.com/vinirib)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusribeirosp/)](https://www.linkedin.com/in/viniciusribeirosp/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusribeirosp@gmail.com)](mailto:viniciusribeirosp@gmail.com/)
-[![HitCount](http://hits.dwyl.com/vinirib/vinirib.svg)](http://hits.dwyl.com/vinirib/vinirib)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=vinirib.vinirib)
 ![GitHub followers](https://img.shields.io/github/followers/vinirib?label=Follow&style=social)
 <br/>
 
