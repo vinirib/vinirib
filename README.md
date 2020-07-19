@@ -1,16 +1,40 @@
-### Hi there 👋
+# Vinícius Ribeiro :man_technologist: :dark_sunglasses:
 
-<!--
-**vinirib/vinirib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/vinirib)](https://github.com/vinirib)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusribeirosp/)](https://www.linkedin.com/in/viniciusribeirosp/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusribeirosp@gmail.com)](mailto:viniciusribeirosp@gmail.com/)
+<br/>
 
-Here are some ideas to get you started:
+## Hi how are you? 👋 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+I'm Vinicius, I'm a back end Software Developer and enthusiast of some technologies like: Cloud Computing, Blockchain, CryptoCurrency, High Performance Programming Languages such (Golang and Rust).
+<br>
+I'm a dedicated student of technology and I believe that always we are in constant learning, therefore, my knowledge isn't came only from my academy formation, but comes from technical articles, foruns and mostly, the technical community of person who keep us in updated with news about this biggest world.
+<br>
+My principal programming language today is Java, who I love to code and also interested in studying ever news. I like to keep updated with Java and use your new features, such: reactive programming, Http2.0, modular architecture, new Garbage Collectors features and another things who comes at time.
+<br>
+I like to think about technical architecture and how provide the best environment for my product, for that, I like to study good approach of programming, best performance approaches, Software Security principles, Software Architecture approaches, and another things that we see on software development challenges.
+<br>
+I also tries to show how I provide my code with this page and with my repositories, feel free to contact me for some technical question that you have. Feel free to add me on your social media to, and fell free to follow me to read my news.
+
+### Who am I
+
+- [x] A person who likes, code, music and world gastronomy.
+- [x] A guy who likes to share your knowledge, talk about experiences and always learning something new.
+- [x] A human  who likes, ethical and moral values for providing the best living and best world for all of us.
+- [x] A good friend too.
+
+### Another details that I am and I practice
+
+<br/>.👩‍🎓 Bachelor Degree in System Analysis.
+<br/>.:man_technologist: Back End Java Developer / System Architech and Tech Lead.
+<br/>.🌍 Languages: Portuguese, English(Studying), German(Studying).
+<br/>.💙 Java evangelist.
+<br/>.🌱 Always Learning about technology.
+<br/>.:beer: I love a good beer.
+<br/>.:video_game: I love play video games.
+<br/>.:guitar: Guitar player as I can (an hobbie)
+<br/>.💬 Free for talk: Language (Portugues, english, german), Technology, Philosophy and world changes.
+<br/><br/>I want to thanks for come here and read and I wish to keep in contact, you can add me on LinkedIn.
