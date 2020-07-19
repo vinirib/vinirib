@@ -6,9 +6,11 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/vinirib)](https://github.com/vinirib)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusribeirosp/)](https://www.linkedin.com/in/viniciusribeirosp/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusribeirosp@gmail.com)](mailto:viniciusribeirosp@gmail.com/)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=vinirib.vinirib)
+[![HitCount](http://hits.dwyl.com/vinirib/vinirib.svg)](http://hits.dwyl.com/vinirib/vinirib)
 ![GitHub followers](https://img.shields.io/github/followers/vinirib?label=Follow&style=social)
 <br/>
+<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=vinirib.vinirib) -->
+<!-- https://github.com/abhisheknaiidu/awesome-github-profile-readme#dynamic-realtime- -->
 
 ## Hi! 👋 
 
