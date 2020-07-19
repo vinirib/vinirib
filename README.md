@@ -1,4 +1,4 @@
-# Vinícius Ribeiro :man_technologist: <code><img height="25" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/java/java_24x24.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/go-old/go-old_24x24.png"></code>
+# Vinícius Ribeiro :man_technologist: <code><img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/java/java_24x24.png"></code> <code><img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/go-old/go-old_24x24.png"></code>
 
 [![Vinicius Github Status](https://github-readme-stats.vercel.app/api?username=vinirib&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
