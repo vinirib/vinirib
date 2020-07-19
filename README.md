@@ -1,11 +1,14 @@
-# Vinícius Ribeiro :man_technologist: :dark_sunglasses:
+# Vinícius Ribeiro :man_technologist: <code><img height="20" src="https://raw.githubusercontent.com/vinirib/vinirib/master/content/svg/java-vertical.svg"></code>
 
+[![Vinicius Github Status](https://github-readme-stats.vercel.app/api?username=vinirib&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/vinirib)](https://github.com/vinirib)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusribeirosp/)](https://www.linkedin.com/in/viniciusribeirosp/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusribeirosp@gmail.com)](mailto:viniciusribeirosp@gmail.com/)
 <br/>
 
-## Hi how are you? 👋 
+## Hi! 👋 
+
 
 <br/>
 
@@ -38,4 +41,10 @@ I also tries to show how I provide my code with this page and with my repositori
 <br/>.:guitar: Guitar player as I can (an hobbie)
 <br/>.💬 Free for talk: Language (Portugues, english, german), Technology, Philosophy and world changes.
 <br/><br/>
+
+
+### Working on at this time
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vinirib&repo=pact-ci-workshop)](https://github.com/anuraghazra/github-readme-stats)
+
 ### I want to thank you for coming here and read my profile, I wish to keep in contact if we have related interest, you can add me on LinkedIn.
