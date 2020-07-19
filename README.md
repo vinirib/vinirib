@@ -10,13 +10,13 @@
 <br/>
 
 I'm Vinicius, I'm a back end Software Developer and enthusiast of some technologies like: Cloud Computing, Blockchain, CryptoCurrency, High Performance Programming Languages such (Golang and Rust).
-<br>
+<br><br>
 I'm a dedicated student of technology and I believe that always we are in constant learning, therefore, my knowledge isn't came only from my academy formation, but comes from technical articles, foruns and mostly, the technical community of person who keep us in updated with news about this biggest world.
-<br>
+<br><br>
 My principal programming language today is Java, who I love to code and also interested in studying ever news. I like to keep updated with Java and use your new features, such: reactive programming, Http2.0, modular architecture, new Garbage Collectors features and another things who comes at time.
-<br>
+<br><br>
 I like to think about technical architecture and how provide the best environment for my product, for that, I like to study good approach of programming, best performance approaches, Software Security principles, Software Architecture approaches, and another things that we see on software development challenges.
-<br>
+<br><br>
 I also tries to show how I provide my code with this page and with my repositories, feel free to contact me for some technical question that you have. Feel free to add me on your social media to, and fell free to follow me to read my news.
 
 ### Who am I
