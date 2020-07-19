@@ -37,4 +37,5 @@ I also tries to show how I provide my code with this page and with my repositori
 <br/>.:video_game: I love play video games.
 <br/>.:guitar: Guitar player as I can (an hobbie)
 <br/>.💬 Free for talk: Language (Portugues, english, german), Technology, Philosophy and world changes.
-<br/><br/>I want to thanks for come here and read and I wish to keep in contact, you can add me on LinkedIn.
+<br/><br/>
+### I want to thank you for coming here and read my profile, I wish to keep in contact if we have related interest, you can add me on LinkedIn.
