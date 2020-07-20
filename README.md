@@ -1,6 +1,6 @@
  # Vinícius Ribeiro :man_technologist:
 
-![Vinicius Ribeiro](https://github.com/vinirib/vinirib/blob/master/content/banner/java-banner.png "Vinicius")
+![Vinicius Ribeiro](https://github.com/vinirib/vinirib/blob/master/content/banner/java-banner.jpg "Vinicius")
 
   <!-- <code><img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/java/java_24x24.png"></code> <code><img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/go-old/go-old_24x24.png"></code> -->
 ![Go Badge](https://img.shields.io/badge/-Go%20Lang-00ADD8?style=flat-square&logo=go&logoColor=white "Golang Badge")
