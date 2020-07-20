@@ -1,8 +1,13 @@
  # Vinícius Ribeiro :man_technologist:
+
+![Vinicius Ribeiro](https://github.com/vinirib/vinirib/blob/master/content/banner/banner.png "Vinicius")
+
   <!-- <code><img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/java/java_24x24.png"></code> <code><img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/go-old/go-old_24x24.png"></code> -->
 ![Go Badge](https://img.shields.io/badge/-Go%20Lang-00ADD8?style=flat-square&logo=go&logoColor=white "Golang Badge")
 ![Java Badge](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white "Java Badge")
-
+![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
+![Maven](http://img.shields.io/badge/-Maven-1565c0?style=flat-square&logo=apache-maven)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
 [![Vinicius Github Status](https://github-readme-stats.vercel.app/api?username=vinirib&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <br/> <br/>
