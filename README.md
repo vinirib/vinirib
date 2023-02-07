@@ -1,6 +1,6 @@
  # Vinícius Ribeiro :man_technologist:
 
-![Vinicius Ribeiro](content/banner/java-banner.png)
+<img src="content/banner/java-banner.png" width="700" height="300"/>
 
 ![Go Badge](https://img.shields.io/badge/-Go%20Lang-00ADD8?style=flat-square&logo=go&logoColor=white "Golang Badge")
 ![Java Badge](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white "Java Badge")
@@ -42,7 +42,6 @@ Working in a company that values technology and innovation is important to me. I
 - [x] A good listener, and a good friend.
 
 ### Other details about me
-
 <br/>.👩‍🎓 Bachelor's Degree in System Analysis.
 <br/>.:man_technologist: Back End Java Developer / System Architect and Tech Lead.
 <br/>.🌍 Languages: Portuguese, English (B1)
