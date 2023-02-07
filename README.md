@@ -8,7 +8,7 @@
 ![Maven](http://img.shields.io/badge/-Maven-1565c0?style=flat-square&logo=apache-maven)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
-[![Vinicius Github Status](https://github-readme-stats.vercel.app/api?username=vinirib&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Vinicius Github Status](https://github-readme-stats.vercel.app/api?username=vinirib&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <br/> <br/>
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/vinirib)](https://github.com/vinirib)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusribeirosp/)](https://www.linkedin.com/in/viniciusribeirosp/)
