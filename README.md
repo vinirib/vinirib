@@ -1,8 +1,7 @@
  # Vinícius Ribeiro :man_technologist:
 
-![Vinicius Ribeiro](https://github.com/vinirib/vinirib/blob/master/content/banner/java-banner-2.jpg "Vinicius")
+<img src="content/banner/java-banner.png" width="700" height="300"/>
 
-  <!-- <code><img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/java/java_24x24.png"></code> <code><img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/go-old/go-old_24x24.png"></code> -->
 ![Go Badge](https://img.shields.io/badge/-Go%20Lang-00ADD8?style=flat-square&logo=go&logoColor=white "Golang Badge")
 ![Java Badge](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white "Java Badge")
 ![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
@@ -21,44 +20,39 @@
 
 <!-- https://github.com/abhisheknaiidu/awesome-github-profile-readme#dynamic-realtime- -->
 
-## Hi! 👋 
+## Hi! 👋
 
+Welcome to my place!:)
 
-<br/>
+I am a passionate Java programmer with a strong drive to tackle challenging technical projects. I thrive in fast-paced environments where I can continuously learn and grow as a developer. I have strong attention to detail and take pride in delivering high-performance and resilient solutions. I am constantly seeking out new ways to improve my skills and stay up-to-date with the latest technologies and industry trends.
 
-I'm Vinicius, I'm a back end Software Developer and enthusiast of some technologies like: Cloud Computing, Blockchain, CryptoCurrency, High Performance Programming Languages such (Golang and Rust).
-<br><br>
-I'm a dedicated student of technology and I believe that always we are in constant learning, therefore, my knowledge isn't came only from my academy formation, but comes from technical articles, foruns and mostly, the technical community of person who keep us in updated with news about this biggest world.
-<br><br>
-My principal programming language today is Java, that I love to code and also interested in studying ever news. I like to keep updated with Java and use your new features, such: reactive programming, Http2.0, modular architecture, new Garbage Collectors features and another things who comes at time.
-<br><br>
-I like to think about technical architecture and how provide the best environment for my product, for that, I like to study good approach of programming, best performance approaches, Software Security principles, Software Architecture approaches, and another things that we see on software development challenges.
-<br><br>
-I also tries to show how I provide my code with this page and with my repositories, feel free to contact me for some technical question that you have. Feel free to add me on your social media to, and fell free to follow me to read my news.
+Working in a company that values technology and innovation is important to me. I am a team player and enjoy collaborating with others to find the best solution for a project. I am confident in my ability to quickly adapt to new technologies and am always eager to take on new challenges. I believe that software development is not just about writing code, but about solving problems and improving people's lives through technology. I am dedicated to my craft and am always striving to create solutions that are not only functional but also beautiful and efficient.
 
-### Who am I
+### More about me
 
-- [x] A person who likes, code, music and world gastronomy.
-- [x] A guy who likes to share your knowledge, talk about experiences and always learning something new.
-- [x] A human  who likes, ethical and moral values for providing the best living and best world for all of us.
-- [x] A good friend too.
+- [x] Collaborative: Enjoys working with others and values team input to find the best solution for a project.
 
-### Another details that I am and I practice
+- [x] Adaptable: Confident in quickly adapting to new technologies and challenges.
 
-<br/>.👩‍🎓 Bachelor Degree in System Analysis.
-<br/>.:man_technologist: Back End Java Developer / System Architech and Tech Lead.
-<br/>.🌍 Languages: Portuguese, English(Studying), German(Studying).
+- [x] Detail-oriented: Pays attention to detail and takes pride in delivering high-quality work.
+
+- [x] Passionate: Strong drive to continuously learn and grow as a Java developer.
+
+- [x] Problem-solver: Believes that software development is about solving problems and improving lives through technology.
+- [x] A good listener, and a good friend.
+### Other details about me<br/>
+.👩‍🎓 Bachelor's Degree in System Analysis.
+<br/>.:man_technologist: Back End Java Developer / System Architect and Tech Lead.
+<br/>.🌍 Languages: Portuguese, English (B1)
 <br/>.💙 Java evangelist.
 <br/>.🌱 Always Learning about technology.
 <br/>.:beer: I love a good beer.
 <br/>.:video_game: I love play video games.
-<br/>.:guitar: Guitar player as I can (an hobbie)
-<br/>.💬 Free for talk: Language (Portugues, english, german), Technology, Philosophy and world changes.
-<br/><br/>
+<br/>.:guitar: Guitar player as I can (a hobbie)
+<br/>.💬 Free for talk: Language (Portugues, English), Technology, Philosophy and world changes.
 
+#### Working on at this time
 
-### Working on at this time
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vinirib&repo=Dopefolio)](https://github.com/anuraghazra/github-readme-stats)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vinirib&repo=pact-ci-workshop)](https://github.com/anuraghazra/github-readme-stats)
-
-### I want to thank you for coming here and read my profile, I wish to keep in contact if we have related interest, you can add me on LinkedIn.
+### Thank you for visiting my Github page! I appreciate your interest in my work and I hope you found what you were looking for. If you would like to connect with me further, please feel free to visit my LinkedIn profile at [Linkedin(https://www.linkedin.com/in/viniciusribeirosp/en/). I am always open to new opportunities and would love to connect with you there. Thank you again for your time and I look forward to connecting with you soon.
