@@ -1,6 +1,6 @@
  # Vinícius Ribeiro :man_technologist:
 
-<img src="content/banner/java-banner.png" width="700" height="300"/>
+<img src="content/banner/java-banner.png" width="1500" height="500"/>
 
 ![Go Badge](https://img.shields.io/badge/-Go%20Lang-00ADD8?style=flat-square&logo=go&logoColor=white "Golang Badge")
 ![Java Badge](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white "Java Badge")
