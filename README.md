@@ -55,4 +55,4 @@ Working in a company that values technology and innovation is important to me. I
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vinirib&repo=Dopefolio)](https://github.com/anuraghazra/github-readme-stats)
 
-### Thank you for visiting my Github page! I appreciate your interest in my work and I hope you found what you were looking for. If you would like to connect with me further, please feel free to visit my LinkedIn profile at [Linkedin(https://www.linkedin.com/in/viniciusribeirosp/en/). I am always open to new opportunities and would love to connect with you there. Thank you again for your time and I look forward to connecting with you soon.
+### Thank you for visiting my Github page! I appreciate your interest in my work and I hope you found what you were looking for. If you would like to connect with me further, please feel free to visit my LinkedIn profile at [Linkedin](https://www.linkedin.com/in/viniciusribeirosp/en/). I am always open to new opportunities and would love to connect with you there. Thank you again for your time and I look forward to connecting with you soon.
