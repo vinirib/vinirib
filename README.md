@@ -40,9 +40,9 @@ Working in a company that values technology and innovation is important to me. I
 
 - [x] Problem-solver: Believes that software development is about solving problems and improving lives through technology.
 - [x] A good listener, and a good friend.
-
-### Other details about me
-<br/>.👩‍🎓 Bachelor's Degree in System Analysis.
+<br/>
+### Other details about me<br/>
+.👩‍🎓 Bachelor's Degree in System Analysis.
 <br/>.:man_technologist: Back End Java Developer / System Architect and Tech Lead.
 <br/>.🌍 Languages: Portuguese, English (B1)
 <br/>.💙 Java evangelist.
