@@ -51,7 +51,7 @@ Working in a company that values technology and innovation is important to me. I
 <br/>.:guitar: Guitar player as I can (a hobbie)
 <br/>.💬 Free for talk: Language (Portugues, English), Technology, Philosophy and world changes.
 
-### Working on at this time
+#### Working on at this time
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vinirib&repo=Dopefolio)](https://github.com/anuraghazra/github-readme-stats)
 
