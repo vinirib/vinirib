@@ -2,11 +2,14 @@
 
 <img src="content/banner/java-banner.png" width="1500" height="500"/>
 
-![Go Badge](https://img.shields.io/badge/-Go%20Lang-00ADD8?style=flat-square&logo=go&logoColor=white "Golang Badge")
 ![Java Badge](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white "Java Badge")
 ![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
+![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Maven](http://img.shields.io/badge/-Maven-1565c0?style=flat-square&logo=apache-maven)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 [![Vinicius Github Status](https://github-readme-stats.vercel.app/api?username=vinirib&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <br/> <br/>
