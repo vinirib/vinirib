@@ -1,6 +1,6 @@
  # Vinícius Ribeiro :man_technologist:
 
-<img src="content/banner/dev-analist.jpeg" width="1500" height="500"/>
+<img src="content/banner/dev-analist.jpeg" width="1300" height="500"/>
 
 ![Java Badge](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white "Java Badge")
 ![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
