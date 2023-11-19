@@ -10,7 +10,7 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-[![Vinicius Github Status](https://github-readme-stats.vercel.app/api?username=vinirib&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <br/> <br/>
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/vinirib)](https://github.com/vinirib)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusribeirosp/)](https://www.linkedin.com/in/viniciusribeirosp/)
@@ -55,8 +55,6 @@ Working in a company that values technology and innovation is important to me. I
 <br/>.:guitar: Guitar player as I can (a hobby)
 <br/>.💬 Free for a talk: Language (Portugues, English), Technology, Philosophy, and world changes.
 
-#### Working on at this time
+[![Vinicius Github Status](https://github-readme-stats.vercel.app/api?username=vinirib&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vinirib&repo=Dopefolio)](https://github.com/anuraghazra/github-readme-stats)
-
-### Thank you for visiting my Github page! I appreciate your interest in my work and I hope you found what you were looking for. If you would like to connect with me further, please feel free to visit my LinkedIn profile at [Linkedin](https://www.linkedin.com/in/viniciusribeirosp/en/). I am always open to new opportunities and would love to connect with you there. Thank you again for your time and I look forward to connecting with you soon.
+### Thank you for visiting my GitHub page! I appreciate your interest in my work, and I hope you found what you were looking for. If you'd like to connect with me further, please feel free to visit my LinkedIn profile at [Linkedin](https://www.linkedin.com/in/viniciusribeirosp/en/). I'm always open to new opportunities and would love to connect with you there.
