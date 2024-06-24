@@ -1,4 +1,4 @@
- # Vinícius Ribeiro :man_technologist:
+ # Vinícius Ribeiro 🧑🏻‍💻
 
 
 ![Java Badge](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white "Java Badge")
@@ -22,39 +22,59 @@
 
 <!-- https://github.com/abhisheknaiidu/awesome-github-profile-readme#dynamic-realtime- -->
 
+
+██╗░░░██╗██╗███╗░░██╗██╗░█████╗░██╗██╗░░░██╗░██████╗
+██║░░░██║██║████╗░██║██║██╔══██╗██║██║░░░██║██╔════╝
+╚██╗░██╔╝██║██╔██╗██║██║██║░░╚═╝██║██║░░░██║╚█████╗░
+░╚████╔╝░██║██║╚████║██║██║░░██╗██║██║░░░██║░╚═══██╗
+░░╚██╔╝░░██║██║░╚███║██║╚█████╔╝██║╚██████╔╝██████╔╝
+░░░╚═╝░░░╚═╝╚═╝░░╚══╝╚═╝░╚════╝░╚═╝░╚═════╝░╚═════╝░
+
+██████╗░██╗██████╗░███████╗██╗██████╗░░█████╗░
+██╔══██╗██║██╔══██╗██╔════╝██║██╔══██╗██╔══██╗
+██████╔╝██║██████╦╝█████╗░░██║██████╔╝██║░░██║
+██╔══██╗██║██╔══██╗██╔══╝░░██║██╔══██╗██║░░██║
+██║░░██║██║██████╦╝███████╗██║██║░░██║╚█████╔╝
+╚═╝░░╚═╝╚═╝╚═════╝░╚══════╝╚═╝╚═╝░░╚═╝░╚════╝░
+
 ## Hi! 👋
 
-Welcome to my place!:)
+Welcome to my space! :)
 
-I am a passionate Java programmer with a strong drive to tackle challenging technical projects. I thrive in fast-paced environments where I can continuously learn and grow as a developer. I have strong attention to detail and take pride in delivering high-performance and resilient solutions. I am constantly seeking out new ways to improve my skills and stay up-to-date with the latest technologies and industry trends.
+I am a dedicated and passionate Java programmer with a proven track record of tackling complex technical projects. With a strong focus on high-performance and resilient solutions, I thrive in fast-paced environments that offer continuous learning and growth opportunities. My attention to detail and commitment to excellence drive me to deliver solutions that not only meet but exceed expectations.
 
-Working in a company that values technology and innovation is important to me. I am a team player and enjoy collaborating with others to find the best solution for a project. I am confident in my ability to quickly adapt to new technologies and am always eager to take on new challenges. I believe that software development is not just about writing code, but about solving problems and improving people's lives through technology. I am dedicated to my craft and am always striving to create solutions that are not only functional but also beautiful and efficient.
+I am always on the lookout for innovative ways to enhance my skills and stay abreast of the latest technologies and industry trends. Working in a company that values technology and innovation is crucial to me, as it aligns with my passion for solving problems and improving lives through technology.
+
+Collaboration is at the heart of my work ethic. I enjoy being part of a team and believe that the best solutions come from collective brainstorming and cooperation. My adaptability to new technologies, combined with a relentless drive to take on new challenges, fuels my professional journey.
+
+To me, software development goes beyond writing code. It’s about crafting solutions that are functional, beautiful, and efficient. I am dedicated to my craft and continuously strive to create technology that makes a positive impact.
 
 ### More about me
 
-- [x] Collaborative: Enjoys working with others and values team input to find the best solution for a project.
+- [x] Collaborative: Enjoy working with others and value team input to find the best solution for a project.
 
 - [x] Adaptable: Confident in quickly adapting to new technologies and challenges.
 
-- [x] Detail-oriented: Pays attention to detail and takes pride in delivering high-quality work.
+- [x] Detail-oriented: Pay attention to detail and take pride in delivering high-quality work.
 
 - [x] Passionate: Strong drive to continuously learn and grow as a Java developer.
 
-- [x] Problem-solver: Believes that software development is about solving problems and improving lives through technology.
-- [x] A good listener, and a good friend.
+- [x] Problem-solver: Believe that software development is about solving problems and improving lives through technology.
+      
+- [x] Good listener and a good friend.
 
 ### Other details about me<br/>
 
 .👩‍🎓 Bachelor's Degree in System Analysis.
-<br/>.:man_technologist: Back End Java Developer / System Architect and Tech Lead.
+<br/>.🧑🏻‍💻 Back End Java Developer / System Architect and Tech Lead.
 <br/>.🌍 Languages: Portuguese, English (B1)
 <br/>.💙 Java evangelist.
 <br/>.🌱 Always Learning about technology.
-<br/>.:beer: I love a good beer.
-<br/>.:video_game: I love playing video games.
-<br/>.:guitar: Guitar player as I can (a hobby)
+<br/>.🍺 I love a good beer.
+<br/>.🎮 I love playing video games.
+<br/>.🎸 Guitar player, I play as best as I can. (a hobby)
 <br/>.💬 Free for a talk: Language (Portugues, English), Technology, Philosophy, and world changes.
 
 [![Vinicius Github Status](https://github-readme-stats.vercel.app/api?username=vinirib&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### Thank you for visiting my GitHub page! I appreciate your interest in my work, and I hope you found what you were looking for. If you'd like to connect with me further, please feel free to visit my LinkedIn profile at [Linkedin](https://www.linkedin.com/in/viniciusribeirosp/en/). I'm always open to new opportunities and would love to connect with you there.
+### Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/viniciusribeirosp) to discuss potential collaborations, opportunities, or just to share ideas.
