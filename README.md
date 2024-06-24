@@ -56,12 +56,11 @@ To me, software development goes beyond writing code. It’s about crafting solu
 .👩‍🎓 Bachelor's Degree in System Analysis.
 <br/>.🧑🏻‍💻 Back End Java Developer / System Architect and Tech Lead.
 <br/>.🌍 Languages: Portuguese, English (B1)
-<br/>.💙 Java evangelist.
 <br/>.🌱 Always Learning about technology.
 <br/>.🍺 I love a good beer.
 <br/>.🎮 I love playing video games.
 <br/>.🎸 Guitar player, I play as best as I can. (a hobby)
-<br/>.💬 Free for a talk: Language (Portugues, English), Technology, Philosophy, and world changes.
+<br/>.💬 Free for a talk: Language (Portugues, English), Technology, Economy and AI.
 
 [![Vinicius Github Status](https://github-readme-stats.vercel.app/api?username=vinirib&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
