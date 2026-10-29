@@ -1,205 +1,111 @@
-# Vinícius Ribeiro 🧑🏻‍💻
+<h1 align="center">Hi, I'm Vinícius Ribeiro 👋</h1>
 
-Senior Software Engineer focused on Java, Distributed Systems, Open Banking, AI-Driven Development and Cloud Architecture.
+<p align="center">
+  <a href="https://github.com/vinirib"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=4F46E5&center=true&vCenter=true&width=520&lines=Backend+engineer;Distributed+systems+%26+APIs;Go+%C2%B7+Java+%C2%B7+Python+%C2%B7+TypeScript;AI-assisted+engineering" alt="Backend engineer, distributed systems and APIs, Go, Java, Python, TypeScript, AI-assisted engineering"/></a>
+</p>
 
-Building scalable backend systems, enterprise integrations and high-performance financial platforms for U.S companies.
+<p align="center">
+  <b>Senior Backend Engineer</b> · distributed systems and APIs · AI-assisted engineering<br/>
+  10+ years shipping backend in production · São Paulo 🇧🇷 · remote
+</p>
 
-<br/>
-
-![Java Badge](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
-![Apache Camel](https://img.shields.io/badge/Apache%20Camel-E97627?style=flat-square&logo=apachecamel&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat-square&logo=apachekafka)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-<br/>
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/vinirib)](https://github.com/vinirib)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusribeirosp/)](https://www.linkedin.com/in/viniciusribeirosp/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusribeirosp@gmail.com)](mailto:viniciusribeirosp@gmail.com/)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=vinirib.vinirib)
-![GitHub followers](https://img.shields.io/github/followers/vinirib?label=Follow&style=social)
+<p align="center">
+  <a href="https://www.linkedin.com/in/viniciusribeirosp/"><img src="https://img.shields.io/badge/LinkedIn-viniciusribeirosp-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:viniciusribeirosp@gmail.com"><img src="https://img.shields.io/badge/Email-get%20in%20touch-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/vinirib?tab=followers"><img src="https://img.shields.io/github/followers/vinirib?style=for-the-badge&logo=github&label=Follow&color=4F46E5" alt="Follow @vinirib"/></a>
+  <img src="https://komarev.com/ghpvc/?username=vinirib&style=for-the-badge&color=4F46E5&label=Profile+views" alt="Profile views"/>
+</p>
 
 ---
 
-# About Me
+## 👋 About
 
-I’m a Senior Software Engineer with strong experience building high-performance backend systems, distributed architectures and Open Banking integrations for financial institutions and enterprise companies.
+I build backend systems that other systems depend on. I care about clean API contracts, failures that are safe to retry, and code the next person can read. I pick the language that fits the problem, not the other way around.
 
-My background combines hands-on engineering, architecture decisions, cloud infrastructure, technical leadership and AI-assisted development workflows.
-
-I actively use tools such as Claude Code, OpenAI Codex and AI-driven engineering techniques to accelerate software delivery, improve code quality, optimize debugging workflows and enhance architectural decision making.
-
-I’m deeply interested in:
-
-- AI-Augmented Software Engineering
-- Spec-Driven Development
-- Contract Testing
-- Distributed Systems
-- Cloud-Native Applications
-- Open Banking Architecture
-- Developer Experience and Productivity
+- 🧩 **Distributed systems and APIs:** event driven, contract first, idempotent, observable
+- 🤖 **AI-assisted engineering:** agents that work with real context and get checked by real tests
+- 🛠️ **Open source:** fixing and improving the libraries I use every day
 
 ---
 
-# Core Stack
+## 🧠 How I use AI
 
-```txt
-Java • Spring Boot • Spring Cloud • Apache Camel • Kafka • RabbitMQ
-Docker • Kubernetes • AWS • Terraform • Helm • ArgoCD • OpenAPI
-REST APIs • GraphQL • CI/CD • PostgreSQL • Redis • MongoDB
-Datadog • Grafana • Prometheus • Splunk • GitHub Actions
-```
+- **Context engineering.** Versioned knowledge, architecture patterns and reusable Claude Code Skills, so the agent works from real context instead of guesses.
+- **Verification first.** The AI drafts. Tests, contracts and a human review decide what ships.
 
----
-
-# AI Engineering & Productivity
-
-```txt
-Claude Code • OpenAI Codex • AI-Assisted Development
-Prompt Engineering • Spec-Driven Development
-AI-Augmented Debugging • AI-Powered Code Review
-Developer Productivity Optimization
-```
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT%20%2F%20Codex-412991?style=flat-square&logo=openai&logoColor=white)
 
 ---
 
-# Architecture & Engineering
+## 🌱 Open source right now
 
-```txt
-Microservices • Distributed Systems • Event-Driven Architecture
-Contract Testing • API Governance • Cloud-Native Applications
-Observability • High Availability • Scalability • Open Banking
-Enterprise Integrations • Resilient Systems
-```
+| Project | What it is | What I'm doing |
+|---------|------------|----------------|
+| **[idempotency4j](https://github.com/josipmusa/idempotency4j)** | Run a unit of work at most once per key and replay the stored result | Storage policies, Retry-After handling, Spring Boot wiring. 5 PRs merged |
+| **[idempotence4j](https://github.com/transferwise/idempotence4j)** | Wise's library for idempotent actions | Spring Web module, payload mismatch detection, Java 21/25 build |
+| **[swagger-parser](https://github.com/swagger-api/swagger-parser)** | The OpenAPI parser behind most of the Swagger tooling | OpenAPI 3.1 `$ref` resolution fixes, JDK 21/25 CI |
+| **[floci](https://github.com/floci-io/floci)** | Free, fast local AWS emulator | CloudFront custom origin fix |
 
----
+**Latest pull requests**
 
-# Professional Experience
-
-## PortX
-
-- Built Open Banking integrations for U.S financial institutions
-- Developed banking connectors using Java 17/21, Apache Camel and OpenAPI 3.0
-- Worked with AWS, Kubernetes, Helm and ArgoCD
-- Created generic Cucumber frameworks for Swagger/OpenAPI contract validation
-- Designed scalable API-led integration solutions for core banking systems
-
-## Itaú Unibanco / Zup Innovation
-
-- Led Pact Framework adoption initiatives
-- Worked on API Governance and CI/CD automation
-- Helped squads improve API integration reliability and contract validation
-- Participated in architecture modernization initiatives using Kotlin and TypeScript
-
-## PayPal US
-
-- Worked on Billing Agreements and subscription systems
-- Improved onboarding workflows and observability processes
-- Collaborated with globally distributed engineering teams
-- Supported high-scale transactional systems and migration initiatives
-
-## Tokio Marine
-
-- Improved application performance from 1 second to 30 milliseconds
-- Reduced weekly support tickets by 75%
-- Enhanced system performance for low-bandwidth regions
+<!-- OSS-PRS:START -->
+- 🟢 **floci-io/floci** [#6951](https://github.com/floci-io/floci/pull/6951) fix(cloudfront): serve custom origins that name Floci itself in-process
+- 🟣 **josipmusa/idempotency4j** [#175](https://github.com/josipmusa/idempotency4j/pull/175) Release the key when a storage policy declines the result
+- 🟢 **swagger-api/swagger-parser** [#2412](https://github.com/swagger-api/swagger-parser/pull/2412) fix: resolve 3.1 refs with path template braces in the fragment (#2159)
+- 🟢 **swagger-api/swagger-parser** [#2411](https://github.com/swagger-api/swagger-parser/pull/2411) chore: build and test on JDK 21 and 25 (#2095)
+- 🟢 **swagger-api/swagger-parser** [#2410](https://github.com/swagger-api/swagger-parser/pull/2410) fix: resolve external refs nested in array items of external schemas (#2409)
+- 🟣 **josipmusa/idempotency4j** [#174](https://github.com/josipmusa/idempotency4j/pull/174) Add an SPI for the filter's own rejection responses
+<!-- OSS-PRS:END -->
 
 ---
 
-# Featured Repositories
+## 🛠️ Tech stack
 
-## [zup-pact-workshop](https://github.com/vinirib/zup-pact-workshop)
+<p>
+  <img src="https://skillicons.dev/icons?i=go,java,kotlin,py,ts,spring,fastapi,kafka,postgres,redis,aws,kubernetes,docker,terraform&perline=14" alt="Go, Java, Kotlin, Python, TypeScript, Spring, FastAPI, Kafka, PostgreSQL, Redis, AWS, Kubernetes, Docker, Terraform"/>
+</p>
 
-Hands-on Contract Testing workshop using Pact Framework, Java and Spring Boot.
-
-Focused on real-world enterprise API integration scenarios.
-
----
-
-# Technologies
-
-## Backend
-
-- Java
-- Spring Boot
-- Spring Cloud
-- Apache Camel
-- Kotlin
-- TypeScript
-- Python
-- FastAPI
-
-## Cloud & DevOps
-
-- AWS
-- Kubernetes
-- Docker
-- Helm
-- Terraform
-- GitHub Actions
-- GitLab CI/CD
-- Jenkins
-- ArgoCD
-- Buildkite
-
-## Messaging & Integration
-
-- Kafka
-- RabbitMQ
-- REST APIs
-- OpenAPI
-- GraphQL
-- gRPC
-- SOAP
-
-## Testing & Quality
-
-- Pact Framework
-- Cucumber
-- JUnit
-- Mockito
-- SonarQube
-- Contract Testing
-- Integration Testing
-
-## Observability
-
-- Datadog
-- Grafana
-- Prometheus
-- Splunk
-
-## Databases
-
-- PostgreSQL
-- Oracle
-- Redis
-- MongoDB
+| Area | Technologies |
+|------|--------------|
+| **Languages** | Go, Java, Kotlin, Python, TypeScript, SQL |
+| **Frameworks** | Spring Boot, FastAPI, Node.js, Go standard library |
+| **APIs & messaging** | REST, OpenAPI, GraphQL, gRPC, Kafka, RabbitMQ |
+| **Data** | PostgreSQL, Redis, MongoDB, Oracle |
+| **Cloud & infra** | AWS, GCP, Kubernetes, Docker, Helm, ArgoCD, Terraform |
+| **Testing** | Testcontainers, JUnit, Go test, Pytest, Pact |
+| **Observability** | Datadog, Grafana, Prometheus, OpenTelemetry |
 
 ---
 
-# Languages
+## 📌 Earlier work worth a look
 
-- Portuguese: Native
-- English: Professional Working Proficiency (B2/C1)
-
----
-
-# Contact
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusribeirosp/)](https://www.linkedin.com/in/viniciusribeirosp/)
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/vinirib)](https://github.com/vinirib)
-
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusribeirosp@gmail.com)](mailto:viniciusribeirosp@gmail.com)
+- **[zup-pact-workshop](https://github.com/vinirib/zup-pact-workshop)**: hands-on consumer driven contract testing workshop with Pact, used to train dozens of engineers.
+- **[pact-ci-workshop](https://github.com/vinirib/pact-ci-workshop)**: contract tests wired into a CI pipeline, from broker to `can-i-deploy`.
+- **[pact-consumer-sample](https://github.com/vinirib/pact-consumer-sample)** / **[pact-provider-sample](https://github.com/vinirib/pact-provider-sample)**: the smallest working consumer and provider pair.
 
 ---
 
-[![Vinicius Github Status](https://github-readme-stats.vercel.app/api?username=vinirib&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 Stats
+
+<p align="center">
+  <img src="metrics/stats.svg" alt="GitHub stats and languages"/>
+</p>
+<p align="center">
+  <img src="metrics/calendar.svg" alt="Contribution calendar and streak"/>
+</p>
+
+---
+
+## 📬 Find me
+
+<p>
+  <a href="https://www.linkedin.com/in/viniciusribeirosp/"><img src="https://img.shields.io/badge/LinkedIn-viniciusribeirosp-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:viniciusribeirosp@gmail.com"><img src="https://img.shields.io/badge/Email-viniciusribeirosp%40gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/vinirib"><img src="https://img.shields.io/badge/GitHub-vinirib-181717?style=flat-square&logo=github" alt="GitHub"/></a>
+</p>
+
+<p align="center">
+  <sub>☕ Coffee, clean APIs and well-tested contracts.</sub>
+</p>
