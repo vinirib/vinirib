@@ -87,6 +87,7 @@ I build backend systems that other systems depend on. I care about clean API con
 
 ---
 
+<!-- STATS: enabled once metrics/*.svg exist
 ## 📊 Stats
 
 <p align="center">
@@ -95,6 +96,7 @@ I build backend systems that other systems depend on. I care about clean API con
 <p align="center">
   <img src="metrics/calendar.svg" alt="Contribution calendar and streak"/>
 </p>
+-->
 
 ---
 
