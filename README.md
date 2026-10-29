@@ -98,8 +98,6 @@ I build backend systems that other systems depend on. I care about clean API con
 </p>
 -->
 
----
-
 ## 📬 Find me
 
 <p>
