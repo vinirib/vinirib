@@ -54,12 +54,12 @@ I build backend systems that other systems depend on. I care about clean API con
 **Latest pull requests**
 
 <!-- OSS-PRS:START -->
+- 🟢 **pact-foundation/pact-jvm** [#1947](https://github.com/pact-foundation/pact-jvm/pull/1947) fix: read and write JSON bodies without a charset as UTF-8 #1783
+- 🟢 **pact-foundation/pact-jvm** [#1946](https://github.com/pact-foundation/pact-jvm/pull/1946) fix: minArrayLike and minMaxArrayLike with an example object generate the minimum number of examples #1800
+- 🟣 **floci-io/floci** [#6951](https://github.com/floci-io/floci/pull/6951) fix(cloudfront): serve custom origins that name Floci itself in-process
 - 🟢 **opensearch-project/opensearch-java** [#2254](https://github.com/opensearch-project/opensearch-java/pull/2254) Fix a race in ArrayDeserializer.acceptedEvents()
 - 🟢 **OpenAPITools/openapi-generator** [#25483](https://github.com/OpenAPITools/openapi-generator/pull/25483) [Java] Match implicitHeadersRegex case insensitively
-- 🟢 **floci-io/floci** [#6951](https://github.com/floci-io/floci/pull/6951) fix(cloudfront): serve custom origins that name Floci itself in-process
 - 🟣 **josipmusa/idempotency4j** [#175](https://github.com/josipmusa/idempotency4j/pull/175) Release the key when a storage policy declines the result
-- 🟢 **swagger-api/swagger-parser** [#2412](https://github.com/swagger-api/swagger-parser/pull/2412) fix: resolve 3.1 refs with path template braces in the fragment (#2159)
-- 🟢 **swagger-api/swagger-parser** [#2411](https://github.com/swagger-api/swagger-parser/pull/2411) chore: build and test on JDK 21 and 25 (#2095)
 <!-- OSS-PRS:END -->
 
 ---
