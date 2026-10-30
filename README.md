@@ -54,12 +54,12 @@ I build backend systems that other systems depend on. I care about clean API con
 **Latest pull requests**
 
 <!-- OSS-PRS:START -->
+- 🟢 **floci-io/floci** [#7046](https://github.com/floci-io/floci/pull/7046) fix(cloudformation): apply EnabledMfas on AWS::Cognito::UserPool
 - 🟢 **pact-foundation/pact-jvm** [#1948](https://github.com/pact-foundation/pact-jvm/pull/1948) fix: apply a header matcher to the whole value when a multi-value header was split #1862
 - 🟢 **pact-foundation/pact-jvm** [#1947](https://github.com/pact-foundation/pact-jvm/pull/1947) fix: read and write JSON bodies without a charset as UTF-8 #1783
 - 🟢 **pact-foundation/pact-jvm** [#1946](https://github.com/pact-foundation/pact-jvm/pull/1946) fix: minArrayLike and minMaxArrayLike with an example object generate the minimum number of examples #1800
 - 🟣 **floci-io/floci** [#6951](https://github.com/floci-io/floci/pull/6951) fix(cloudfront): serve custom origins that name Floci itself in-process
 - 🟢 **opensearch-project/opensearch-java** [#2254](https://github.com/opensearch-project/opensearch-java/pull/2254) Fix a race in ArrayDeserializer.acceptedEvents()
-- 🟢 **OpenAPITools/openapi-generator** [#25483](https://github.com/OpenAPITools/openapi-generator/pull/25483) [Java] Match implicitHeadersRegex case insensitively
 <!-- OSS-PRS:END -->
 
 ---
