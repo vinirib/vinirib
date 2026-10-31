@@ -47,7 +47,7 @@ I build backend systems that other systems depend on. I care about clean API con
 | **[idempotency4j](https://github.com/josipmusa/idempotency4j)** | Run a unit of work at most once per key and replay the stored result | Storage policies, Retry-After handling, Spring Boot wiring. 5 PRs merged |
 | **[idempotence4j](https://github.com/transferwise/idempotence4j)** | Wise's library for idempotent actions | Spring Web module, payload mismatch detection, Java 21/25 build |
 | **[swagger-parser](https://github.com/swagger-api/swagger-parser)** | The OpenAPI parser behind most of the Swagger tooling | OpenAPI 3.1 `$ref` resolution fixes, JDK 21/25 CI |
-| **[floci](https://github.com/floci-io/floci)** | Free, fast local AWS emulator | CloudFront custom origin and Cognito CloudFormation MFA fixes. 2 PRs merged |
+| **[floci](https://github.com/floci-io/floci)** | Free, fast local AWS emulator | CloudFront custom origin and Cognito CloudFormation MFA fixes. 3 PRs merged |
 | **[clauditor](https://github.com/IyadhKhalfallah/clauditor)** | Session and quota tool for Claude Code | Memory crash fix at session start, CI security audit fix |
 | **[claude-mem](https://github.com/thedotmack/claude-mem)** | Persistent memory for coding agents | Folder CLAUDE.md and search date bound fixes |
 | **[openapi-generator](https://github.com/OpenAPITools/openapi-generator)** | Generates clients and servers from OpenAPI specs | Java/Spring generator fixes |
@@ -59,12 +59,12 @@ I build backend systems that other systems depend on. I care about clean API con
 **Latest pull requests**
 
 <!-- OSS-PRS:START -->
+- 🟣 **floci-io/floci** [#7088](https://github.com/floci-io/floci/pull/7088) fix(cloudformation): keep SMS_MFA on a user pool update until MFA is turned off
+- 🟢 **opensearch-project/opensearch-java** [#2254](https://github.com/opensearch-project/opensearch-java/pull/2254) Fix a race in ArrayDeserializer.acceptedEvents()
 - 🟢 **quarkusio/quarkus** [#57979](https://github.com/quarkusio/quarkus/pull/57979) Log Maven settings warnings without a stack trace
+- 🟢 **thedotmack/claude-mem** [#5234](https://github.com/thedotmack/claude-mem/pull/5234) fix(search): read an all-digit dateStart/dateEnd as epoch ms (#5233)
 - 🟢 **IyadhKhalfallah/clauditor** [#153](https://github.com/IyadhKhalfallah/clauditor/pull/153) fix(hooks): deliver SessionStart context through hookSpecificOutput
 - 🟢 **IyadhKhalfallah/clauditor** [#149](https://github.com/IyadhKhalfallah/clauditor/pull/149) fix(deps): clear the npm audit findings that fail the security job
-- 🟢 **floci-io/floci** [#7088](https://github.com/floci-io/floci/pull/7088) fix(cloudformation): keep SMS_MFA on a user pool update until MFA is turned off
-- 🟢 **thedotmack/claude-mem** [#5234](https://github.com/thedotmack/claude-mem/pull/5234) fix(search): read an all-digit dateStart/dateEnd as epoch ms (#5233)
-- 🟢 **thedotmack/claude-mem** [#5232](https://github.com/thedotmack/claude-mem/pull/5232) fix(folder-claude-md): check duplicate path segments only from the project folder down (#5231)
 <!-- OSS-PRS:END -->
 
 ---
