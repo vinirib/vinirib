@@ -59,9 +59,9 @@ I build backend systems that other systems depend on. I care about clean API con
 **Latest pull requests**
 
 <!-- OSS-PRS:START -->
-- 🟣 **floci-io/floci** [#7088](https://github.com/floci-io/floci/pull/7088) fix(cloudformation): keep SMS_MFA on a user pool update until MFA is turned off
 - 🟢 **opensearch-project/opensearch-java** [#2254](https://github.com/opensearch-project/opensearch-java/pull/2254) Fix a race in ArrayDeserializer.acceptedEvents()
 - 🟢 **quarkusio/quarkus** [#57979](https://github.com/quarkusio/quarkus/pull/57979) Log Maven settings warnings without a stack trace
+- 🟣 **floci-io/floci** [#7088](https://github.com/floci-io/floci/pull/7088) fix(cloudformation): keep SMS_MFA on a user pool update until MFA is turned off
 - 🟢 **thedotmack/claude-mem** [#5234](https://github.com/thedotmack/claude-mem/pull/5234) fix(search): read an all-digit dateStart/dateEnd as epoch ms (#5233)
 - 🟢 **IyadhKhalfallah/clauditor** [#153](https://github.com/IyadhKhalfallah/clauditor/pull/153) fix(hooks): deliver SessionStart context through hookSpecificOutput
 - 🟢 **IyadhKhalfallah/clauditor** [#149](https://github.com/IyadhKhalfallah/clauditor/pull/149) fix(deps): clear the npm audit findings that fail the security job
