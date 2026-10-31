@@ -53,16 +53,16 @@ I build backend systems that other systems depend on. I care about clean API con
 | **[openapi-generator](https://github.com/OpenAPITools/openapi-generator)** | Generates clients and servers from OpenAPI specs | Java/Spring generator fixes |
 | **[opensearch-java](https://github.com/opensearch-project/opensearch-java)** | The official Java client for OpenSearch | Thread safety fix in JSON deserialization. 1 PR merged |
 | **[pact-jvm](https://github.com/pact-foundation/pact-jvm)** | Consumer-driven contract testing for the JVM | Consumer DSL fixes and issue triage |
-| **[quarkus](https://github.com/quarkusio/quarkus)** | Quarkus: Supersonic Subatomic Java. | First PRs in review |
+| **[quarkus](https://github.com/quarkusio/quarkus)** | Quarkus: Supersonic Subatomic Java. | 1 PR merged |
 <!-- OSS-PROJECTS:END -->
 
 **Latest pull requests**
 
 <!-- OSS-PRS:START -->
+- 🟣 **quarkusio/quarkus** [#57979](https://github.com/quarkusio/quarkus/pull/57979) Log Maven settings warnings without a stack trace
+- 🟢 **thedotmack/claude-mem** [#5238](https://github.com/thedotmack/claude-mem/pull/5238) fix(chroma): do not re-embed unchanged documents on a duplicate conflict (#5237)
 - 🟣 **opensearch-project/opensearch-java** [#2254](https://github.com/opensearch-project/opensearch-java/pull/2254) Fix a race in ArrayDeserializer.acceptedEvents()
 - 🟣 **floci-io/floci** [#7088](https://github.com/floci-io/floci/pull/7088) fix(cloudformation): keep SMS_MFA on a user pool update until MFA is turned off
-- 🟢 **thedotmack/claude-mem** [#5238](https://github.com/thedotmack/claude-mem/pull/5238) fix(chroma): do not re-embed unchanged documents on a duplicate conflict (#5237)
-- 🟢 **quarkusio/quarkus** [#57979](https://github.com/quarkusio/quarkus/pull/57979) Log Maven settings warnings without a stack trace
 - 🟢 **thedotmack/claude-mem** [#5234](https://github.com/thedotmack/claude-mem/pull/5234) fix(search): read an all-digit dateStart/dateEnd as epoch ms (#5233)
 - 🟢 **IyadhKhalfallah/clauditor** [#153](https://github.com/IyadhKhalfallah/clauditor/pull/153) fix(hooks): deliver SessionStart context through hookSpecificOutput
 <!-- OSS-PRS:END -->
