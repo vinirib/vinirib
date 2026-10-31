@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "17 */2 * * *"
   workflow_dispatch:
+  push:
+    branches: [master]
+    paths:
+      - .github/oss-projects.json
+      - .github/scripts/oss_prs.py
 
 permissions:
   contents: write
@@ -16,7 +21,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Update README block
+      - name: Update README blocks
         run: python .github/scripts/oss_prs.py README.md
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -25,5 +30,5 @@ jobs:
           git diff --quiet README.md && exit 0
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -am "docs: refresh open source pull requests"
+          git commit -am "docs: refresh open source projects and pull requests"
           git push
