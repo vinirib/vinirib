@@ -53,17 +53,18 @@ I build backend systems that other systems depend on. I care about clean API con
 | **[openapi-generator](https://github.com/OpenAPITools/openapi-generator)** | Generates clients and servers from OpenAPI specs | Java/Spring generator fixes |
 | **[opensearch-java](https://github.com/opensearch-project/opensearch-java)** | The official Java client for OpenSearch | Thread safety fix in JSON deserialization |
 | **[pact-jvm](https://github.com/pact-foundation/pact-jvm)** | Consumer-driven contract testing for the JVM | Consumer DSL fixes and issue triage |
+| **[quarkus](https://github.com/quarkusio/quarkus)** | Quarkus: Supersonic Subatomic Java. | First PRs in review |
 <!-- OSS-PROJECTS:END -->
 
 **Latest pull requests**
 
 <!-- OSS-PRS:START -->
+- 🟢 **quarkusio/quarkus** [#57979](https://github.com/quarkusio/quarkus/pull/57979) Log Maven settings warnings without a stack trace
 - 🟢 **IyadhKhalfallah/clauditor** [#153](https://github.com/IyadhKhalfallah/clauditor/pull/153) fix(hooks): deliver SessionStart context through hookSpecificOutput
 - 🟢 **IyadhKhalfallah/clauditor** [#149](https://github.com/IyadhKhalfallah/clauditor/pull/149) fix(deps): clear the npm audit findings that fail the security job
 - 🟢 **floci-io/floci** [#7088](https://github.com/floci-io/floci/pull/7088) fix(cloudformation): keep SMS_MFA on a user pool update until MFA is turned off
 - 🟢 **thedotmack/claude-mem** [#5234](https://github.com/thedotmack/claude-mem/pull/5234) fix(search): read an all-digit dateStart/dateEnd as epoch ms (#5233)
 - 🟢 **thedotmack/claude-mem** [#5232](https://github.com/thedotmack/claude-mem/pull/5232) fix(folder-claude-md): check duplicate path segments only from the project folder down (#5231)
-- 🟢 **IyadhKhalfallah/clauditor** [#150](https://github.com/IyadhKhalfallah/clauditor/pull/150) fix: stop scanAll from holding every parsed transcript in memory
 <!-- OSS-PRS:END -->
 
 ---
