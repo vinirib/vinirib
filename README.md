@@ -10,6 +10,7 @@
 </p>
 
 <p align="center">
+  <a href="https://vinirib.github.io"><img src="https://img.shields.io/badge/Website-vinirib.github.io-4F46E5?style=for-the-badge&logo=astro&logoColor=white" alt="Website"/></a>
   <a href="https://www.linkedin.com/in/viniciusribeirosp/"><img src="https://img.shields.io/badge/LinkedIn-viniciusribeirosp-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:viniciusribeirosp@gmail.com"><img src="https://img.shields.io/badge/Email-get%20in%20touch-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/vinirib?tab=followers"><img src="https://img.shields.io/github/followers/vinirib?style=for-the-badge&logo=github&label=Follow&color=4F46E5" alt="Follow @vinirib"/></a>
@@ -110,6 +111,7 @@ I build backend systems that other systems depend on. I care about clean API con
 ## 📬 Find me
 
 <p>
+  <a href="https://vinirib.github.io"><img src="https://img.shields.io/badge/Website-vinirib.github.io-4F46E5?style=flat-square&logo=astro&logoColor=white" alt="Website"/></a>
   <a href="https://www.linkedin.com/in/viniciusribeirosp/"><img src="https://img.shields.io/badge/LinkedIn-viniciusribeirosp-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:viniciusribeirosp@gmail.com"><img src="https://img.shields.io/badge/Email-viniciusribeirosp%40gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/vinirib"><img src="https://img.shields.io/badge/GitHub-vinirib-181717?style=flat-square&logo=github" alt="GitHub"/></a>
