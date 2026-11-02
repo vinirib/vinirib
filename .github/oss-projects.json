@@ -11,6 +11,10 @@
     "what": "The OpenAPI parser behind most of the Swagger tooling",
     "doing": "OpenAPI 3.1 `$ref` resolution fixes, JDK 21/25 CI"
   },
+  "swagger-api/swagger-core": {
+    "what": "Generates OpenAPI definitions from Java and Jakarta REST code",
+    "doing": "CDI bean discovery fix for OpenApiServlet"
+  },
   "floci-io/floci": {
     "what": "Free, fast local AWS emulator",
     "doing": "CloudFront custom origin and Cognito CloudFormation MFA fixes"
@@ -21,7 +25,7 @@
   },
   "thedotmack/claude-mem": {
     "what": "Persistent memory for coding agents",
-    "doing": "Folder CLAUDE.md and search date bound fixes"
+    "doing": "Folder CLAUDE.md, search date bound and Chroma re-embed fixes"
   },
   "OpenAPITools/openapi-generator": {
     "what": "Generates clients and servers from OpenAPI specs",
@@ -33,6 +37,10 @@
   },
   "pact-foundation/pact-jvm": {
     "what": "Consumer-driven contract testing for the JVM",
-    "doing": "Consumer DSL fixes and issue triage"
+    "doing": "Consumer DSL and JSON charset fixes, issue triage"
+  },
+  "quarkusio/quarkus": {
+    "what": "Kubernetes-native Java framework",
+    "doing": "Cleaner Maven settings warnings in the build"
   }
 }

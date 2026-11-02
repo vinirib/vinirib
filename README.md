@@ -47,23 +47,23 @@ I build backend systems that other systems depend on. I care about clean API con
 | **[idempotency4j](https://github.com/josipmusa/idempotency4j)** | Run a unit of work at most once per key and replay the stored result | Storage policies, Retry-After handling, Spring Boot wiring. 5 PRs merged |
 | **[idempotence4j](https://github.com/transferwise/idempotence4j)** | Wise's library for idempotent actions | Spring Web module, payload mismatch detection, Java 21/25 build |
 | **[swagger-parser](https://github.com/swagger-api/swagger-parser)** | The OpenAPI parser behind most of the Swagger tooling | OpenAPI 3.1 `$ref` resolution fixes, JDK 21/25 CI |
+| **[swagger-core](https://github.com/swagger-api/swagger-core)** | Generates OpenAPI definitions from Java and Jakarta REST code | CDI bean discovery fix for OpenApiServlet |
 | **[floci](https://github.com/floci-io/floci)** | Free, fast local AWS emulator | CloudFront custom origin and Cognito CloudFormation MFA fixes. 3 PRs merged |
 | **[clauditor](https://github.com/IyadhKhalfallah/clauditor)** | Session and quota tool for Claude Code | Memory crash fix at session start, CI security audit fix |
-| **[claude-mem](https://github.com/thedotmack/claude-mem)** | Persistent memory for coding agents | Folder CLAUDE.md and search date bound fixes. 2 PRs merged |
+| **[claude-mem](https://github.com/thedotmack/claude-mem)** | Persistent memory for coding agents | Folder CLAUDE.md, search date bound and Chroma re-embed fixes. 3 PRs merged |
 | **[openapi-generator](https://github.com/OpenAPITools/openapi-generator)** | Generates clients and servers from OpenAPI specs | Java/Spring generator fixes. 1 PR merged |
 | **[opensearch-java](https://github.com/opensearch-project/opensearch-java)** | The official Java client for OpenSearch | Thread safety fix in JSON deserialization. 1 PR merged |
-| **[pact-jvm](https://github.com/pact-foundation/pact-jvm)** | Consumer-driven contract testing for the JVM | Consumer DSL fixes and issue triage. 1 PR merged |
-| **[swagger-core](https://github.com/swagger-api/swagger-core)** | Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API | First PRs in review |
-| **[quarkus](https://github.com/quarkusio/quarkus)** | Quarkus: Supersonic Subatomic Java. | 1 PR merged |
+| **[pact-jvm](https://github.com/pact-foundation/pact-jvm)** | Consumer-driven contract testing for the JVM | Consumer DSL and JSON charset fixes, issue triage. 1 PR merged |
+| **[quarkus](https://github.com/quarkusio/quarkus)** | Kubernetes-native Java framework | Cleaner Maven settings warnings in the build. 1 PR merged |
 <!-- OSS-PROJECTS:END -->
 
 **Latest pull requests**
 
 <!-- OSS-PRS:START -->
-- 🟢 **thedotmack/claude-mem** [#5238](https://github.com/thedotmack/claude-mem/pull/5238) fix(chroma): do not re-embed unchanged documents on a duplicate conflict (#5237)
+- 🟢 **pact-foundation/pact-jvm** [#1947](https://github.com/pact-foundation/pact-jvm/pull/1947) fix: read and write JSON bodies without a charset as UTF-8 #1783
+- 🟣 **thedotmack/claude-mem** [#5238](https://github.com/thedotmack/claude-mem/pull/5238) fix(chroma): do not re-embed unchanged documents on a duplicate conflict (#5237)
 - 🟣 **thedotmack/claude-mem** [#5234](https://github.com/thedotmack/claude-mem/pull/5234) fix(search): read an all-digit dateStart/dateEnd as epoch ms (#5233)
 - 🟣 **thedotmack/claude-mem** [#5232](https://github.com/thedotmack/claude-mem/pull/5232) fix(folder-claude-md): check duplicate path segments only from the project folder down (#5231)
-- 🟢 **pact-foundation/pact-jvm** [#1947](https://github.com/pact-foundation/pact-jvm/pull/1947) fix: read and write JSON bodies without a charset as UTF-8 #1783
 - 🟣 **pact-foundation/pact-jvm** [#1946](https://github.com/pact-foundation/pact-jvm/pull/1946) fix: minArrayLike and minMaxArrayLike with an example object generate the minimum number of examples #1800
 - 🟣 **OpenAPITools/openapi-generator** [#25483](https://github.com/OpenAPITools/openapi-generator/pull/25483) [Java] Match implicitHeadersRegex case insensitively
 <!-- OSS-PRS:END -->
