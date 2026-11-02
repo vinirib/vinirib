@@ -52,7 +52,7 @@ I build backend systems that other systems depend on. I care about clean API con
 | **[claude-mem](https://github.com/thedotmack/claude-mem)** | Persistent memory for coding agents | Folder CLAUDE.md and search date bound fixes |
 | **[openapi-generator](https://github.com/OpenAPITools/openapi-generator)** | Generates clients and servers from OpenAPI specs | Java/Spring generator fixes. 1 PR merged |
 | **[opensearch-java](https://github.com/opensearch-project/opensearch-java)** | The official Java client for OpenSearch | Thread safety fix in JSON deserialization. 1 PR merged |
-| **[pact-jvm](https://github.com/pact-foundation/pact-jvm)** | Consumer-driven contract testing for the JVM | Consumer DSL fixes and issue triage |
+| **[pact-jvm](https://github.com/pact-foundation/pact-jvm)** | Consumer-driven contract testing for the JVM | Consumer DSL fixes and issue triage. 1 PR merged |
 | **[swagger-core](https://github.com/swagger-api/swagger-core)** | Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API | First PRs in review |
 | **[quarkus](https://github.com/quarkusio/quarkus)** | Quarkus: Supersonic Subatomic Java. | 1 PR merged |
 <!-- OSS-PROJECTS:END -->
@@ -60,12 +60,12 @@ I build backend systems that other systems depend on. I care about clean API con
 **Latest pull requests**
 
 <!-- OSS-PRS:START -->
+- 🟣 **pact-foundation/pact-jvm** [#1946](https://github.com/pact-foundation/pact-jvm/pull/1946) fix: minArrayLike and minMaxArrayLike with an example object generate the minimum number of examples #1800
 - 🟣 **OpenAPITools/openapi-generator** [#25483](https://github.com/OpenAPITools/openapi-generator/pull/25483) [Java] Match implicitHeadersRegex case insensitively
 - 🟢 **swagger-api/swagger-core** [#5370](https://github.com/swagger-api/swagger-core/pull/5370) fix: exclude OpenApiServlet from CDI bean discovery
 - 🟣 **opensearch-project/opensearch-java** [#2254](https://github.com/opensearch-project/opensearch-java/pull/2254) Fix a race in ArrayDeserializer.acceptedEvents()
 - 🟣 **quarkusio/quarkus** [#57979](https://github.com/quarkusio/quarkus/pull/57979) Log Maven settings warnings without a stack trace
 - 🟢 **thedotmack/claude-mem** [#5238](https://github.com/thedotmack/claude-mem/pull/5238) fix(chroma): do not re-embed unchanged documents on a duplicate conflict (#5237)
-- 🟣 **floci-io/floci** [#7088](https://github.com/floci-io/floci/pull/7088) fix(cloudformation): keep SMS_MFA on a user pool update until MFA is turned off
 <!-- OSS-PRS:END -->
 
 ---
