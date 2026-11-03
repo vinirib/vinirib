@@ -61,12 +61,12 @@ I build backend systems that other systems depend on. I care about clean API con
 **Latest pull requests**
 
 <!-- OSS-PRS:START -->
+- 🟢 **pact-foundation/pact-jvm** [#1948](https://github.com/pact-foundation/pact-jvm/pull/1948) fix: apply a header matcher to the whole value when a multi-value header was split #1862
 - 🟢 **pact-foundation/pact-jvm** [#1947](https://github.com/pact-foundation/pact-jvm/pull/1947) fix: read and write JSON bodies without a charset as UTF-8 #1783
 - 🟣 **thedotmack/claude-mem** [#5238](https://github.com/thedotmack/claude-mem/pull/5238) fix(chroma): do not re-embed unchanged documents on a duplicate conflict (#5237)
 - 🟣 **thedotmack/claude-mem** [#5234](https://github.com/thedotmack/claude-mem/pull/5234) fix(search): read an all-digit dateStart/dateEnd as epoch ms (#5233)
 - 🟣 **thedotmack/claude-mem** [#5232](https://github.com/thedotmack/claude-mem/pull/5232) fix(folder-claude-md): check duplicate path segments only from the project folder down (#5231)
 - 🟣 **pact-foundation/pact-jvm** [#1946](https://github.com/pact-foundation/pact-jvm/pull/1946) fix: minArrayLike and minMaxArrayLike with an example object generate the minimum number of examples #1800
-- 🟣 **OpenAPITools/openapi-generator** [#25483](https://github.com/OpenAPITools/openapi-generator/pull/25483) [Java] Match implicitHeadersRegex case insensitively
 <!-- OSS-PRS:END -->
 
 ---
