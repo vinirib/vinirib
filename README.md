@@ -54,19 +54,20 @@ I build backend systems that other systems depend on. I care about clean API con
 | **[claude-mem](https://github.com/thedotmack/claude-mem)** | Persistent memory for coding agents | Folder CLAUDE.md, search date bound and Chroma re-embed fixes. 3 PRs merged |
 | **[openapi-generator](https://github.com/OpenAPITools/openapi-generator)** | Generates clients and servers from OpenAPI specs | Java/Spring generator fixes. 1 PR merged |
 | **[opensearch-java](https://github.com/opensearch-project/opensearch-java)** | The official Java client for OpenSearch | Thread safety fix in JSON deserialization. 1 PR merged |
-| **[pact-jvm](https://github.com/pact-foundation/pact-jvm)** | Consumer-driven contract testing for the JVM | Consumer DSL and JSON charset fixes, issue triage. 1 PR merged |
+| **[pact-jvm](https://github.com/pact-foundation/pact-jvm)** | Consumer-driven contract testing for the JVM | Consumer DSL and JSON charset fixes, issue triage. 3 PRs merged |
 | **[quarkus](https://github.com/quarkusio/quarkus)** | Kubernetes-native Java framework | Cleaner Maven settings warnings in the build. 1 PR merged |
+| **[jboss-logmanager](https://github.com/jboss-logging/jboss-logmanager)** | JBoss Log Manager | First PRs in review |
 <!-- OSS-PROJECTS:END -->
 
 **Latest pull requests**
 
 <!-- OSS-PRS:START -->
+- 🟣 **pact-foundation/pact-jvm** [#1948](https://github.com/pact-foundation/pact-jvm/pull/1948) fix: apply a header matcher to the whole value when a multi-value header was split #1862
+- 🟣 **pact-foundation/pact-jvm** [#1947](https://github.com/pact-foundation/pact-jvm/pull/1947) fix: read and write JSON bodies without a charset as UTF-8 #1783
+- 🟢 **jboss-logging/jboss-logmanager** [#602](https://github.com/jboss-logging/jboss-logmanager/pull/602) Allow JSON values without a key inside an array
 - ⚪ **quarkusio/quarkus-http** [#225](https://github.com/quarkusio/quarkus-http/pull/225) Fix corrupted body for blocking range requests on URL resources
-- 🟢 **pact-foundation/pact-jvm** [#1947](https://github.com/pact-foundation/pact-jvm/pull/1947) fix: read and write JSON bodies without a charset as UTF-8 #1783
-- 🟢 **pact-foundation/pact-jvm** [#1948](https://github.com/pact-foundation/pact-jvm/pull/1948) fix: apply a header matcher to the whole value when a multi-value header was split #1862
 - 🟣 **thedotmack/claude-mem** [#5238](https://github.com/thedotmack/claude-mem/pull/5238) fix(chroma): do not re-embed unchanged documents on a duplicate conflict (#5237)
 - 🟣 **thedotmack/claude-mem** [#5234](https://github.com/thedotmack/claude-mem/pull/5234) fix(search): read an all-digit dateStart/dateEnd as epoch ms (#5233)
-- 🟣 **thedotmack/claude-mem** [#5232](https://github.com/thedotmack/claude-mem/pull/5232) fix(folder-claude-md): check duplicate path segments only from the project folder down (#5231)
 <!-- OSS-PRS:END -->
 
 ---
