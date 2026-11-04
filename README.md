@@ -62,12 +62,12 @@ I build backend systems that other systems depend on. I care about clean API con
 **Latest pull requests**
 
 <!-- OSS-PRS:START -->
+- 🟢 **IyadhKhalfallah/clauditor** [#149](https://github.com/IyadhKhalfallah/clauditor/pull/149) fix(deps): clear the npm audit findings that fail the security job
 - 🟣 **pact-foundation/pact-jvm** [#1948](https://github.com/pact-foundation/pact-jvm/pull/1948) fix: apply a header matcher to the whole value when a multi-value header was split #1862
 - 🟣 **pact-foundation/pact-jvm** [#1947](https://github.com/pact-foundation/pact-jvm/pull/1947) fix: read and write JSON bodies without a charset as UTF-8 #1783
 - 🟢 **jboss-logging/jboss-logmanager** [#602](https://github.com/jboss-logging/jboss-logmanager/pull/602) Allow JSON values without a key inside an array
 - ⚪ **quarkusio/quarkus-http** [#225](https://github.com/quarkusio/quarkus-http/pull/225) Fix corrupted body for blocking range requests on URL resources
 - 🟣 **thedotmack/claude-mem** [#5238](https://github.com/thedotmack/claude-mem/pull/5238) fix(chroma): do not re-embed unchanged documents on a duplicate conflict (#5237)
-- 🟣 **thedotmack/claude-mem** [#5234](https://github.com/thedotmack/claude-mem/pull/5234) fix(search): read an all-digit dateStart/dateEnd as epoch ms (#5233)
 <!-- OSS-PRS:END -->
 
 ---
