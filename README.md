@@ -48,7 +48,7 @@ I build backend systems that other systems depend on. I care about clean API con
 | **[idempotency4j](https://github.com/josipmusa/idempotency4j)** | Run a unit of work at most once per key and replay the stored result | Storage policies, Retry-After handling, Spring Boot wiring. 5 PRs merged |
 | **[idempotence4j](https://github.com/transferwise/idempotence4j)** | Wise's library for idempotent actions | Spring Web module, payload mismatch detection, Java 21/25 build |
 | **[swagger-parser](https://github.com/swagger-api/swagger-parser)** | The OpenAPI parser behind most of the Swagger tooling | OpenAPI 3.1 `$ref` resolution fixes, JDK 21/25 CI |
-| **[swagger-core](https://github.com/swagger-api/swagger-core)** | Generates OpenAPI definitions from Java and Jakarta REST code | CDI bean discovery fix for OpenApiServlet |
+| **[swagger-core](https://github.com/swagger-api/swagger-core)** | Generates OpenAPI definitions from Java and Jakarta REST code | CDI bean discovery fix for OpenApiServlet. 1 PR merged |
 | **[floci](https://github.com/floci-io/floci)** | Free, fast local AWS emulator | CloudFront custom origin and Cognito CloudFormation MFA fixes. 3 PRs merged |
 | **[clauditor](https://github.com/IyadhKhalfallah/clauditor)** | Session and quota tool for Claude Code | Memory crash fix at session start, CI security audit fix |
 | **[claude-mem](https://github.com/thedotmack/claude-mem)** | Persistent memory for coding agents | Folder CLAUDE.md, search date bound and Chroma re-embed fixes. 3 PRs merged |
@@ -62,12 +62,12 @@ I build backend systems that other systems depend on. I care about clean API con
 **Latest pull requests**
 
 <!-- OSS-PRS:START -->
+- 🟢 **swagger-api/swagger-core** [#5373](https://github.com/swagger-api/swagger-core/pull/5373) fix: exclude OpenApiServlet from CDI bean discovery on 2.x
+- 🟣 **swagger-api/swagger-core** [#5370](https://github.com/swagger-api/swagger-core/pull/5370) fix: exclude OpenApiServlet from CDI bean discovery
+- 🟢 **jboss-logging/jboss-logmanager** [#602](https://github.com/jboss-logging/jboss-logmanager/pull/602) Allow JSON values without a key inside an array
 - 🟢 **IyadhKhalfallah/clauditor** [#149](https://github.com/IyadhKhalfallah/clauditor/pull/149) fix(deps): clear the npm audit findings that fail the security job
 - 🟣 **pact-foundation/pact-jvm** [#1948](https://github.com/pact-foundation/pact-jvm/pull/1948) fix: apply a header matcher to the whole value when a multi-value header was split #1862
 - 🟣 **pact-foundation/pact-jvm** [#1947](https://github.com/pact-foundation/pact-jvm/pull/1947) fix: read and write JSON bodies without a charset as UTF-8 #1783
-- 🟢 **jboss-logging/jboss-logmanager** [#602](https://github.com/jboss-logging/jboss-logmanager/pull/602) Allow JSON values without a key inside an array
-- ⚪ **quarkusio/quarkus-http** [#225](https://github.com/quarkusio/quarkus-http/pull/225) Fix corrupted body for blocking range requests on URL resources
-- 🟣 **thedotmack/claude-mem** [#5238](https://github.com/thedotmack/claude-mem/pull/5238) fix(chroma): do not re-embed unchanged documents on a duplicate conflict (#5237)
 <!-- OSS-PRS:END -->
 
 ---
