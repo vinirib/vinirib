@@ -63,12 +63,12 @@ I build backend systems that other systems depend on. I care about clean API con
 **Latest pull requests**
 
 <!-- OSS-PRS:START -->
-- 🟢 **atlassian/openapi-request-validator** [#43](https://github.com/atlassian/openapi-request-validator/pull/43) perf: inject only the schema definitions a compiled schema can reach
-- 🟣 **opensearch-project/opensearch-java** [#2254](https://github.com/opensearch-project/opensearch-java/pull/2254) Fix a race in ArrayDeserializer.acceptedEvents()
+- 🟢 **OpenAPITools/openapi-generator** [#25648](https://github.com/OpenAPITools/openapi-generator/pull/25648) [Java] Use instantiationTypes when the item helpers create a container
 - 🟢 **swagger-api/swagger-core** [#5373](https://github.com/swagger-api/swagger-core/pull/5373) fix: exclude OpenApiServlet from CDI bean discovery on 2.x
-- 🟣 **swagger-api/swagger-core** [#5370](https://github.com/swagger-api/swagger-core/pull/5370) fix: exclude OpenApiServlet from CDI bean discovery
-- 🟢 **jboss-logging/jboss-logmanager** [#602](https://github.com/jboss-logging/jboss-logmanager/pull/602) Allow JSON values without a key inside an array
-- 🟢 **IyadhKhalfallah/clauditor** [#149](https://github.com/IyadhKhalfallah/clauditor/pull/149) fix(deps): clear the npm audit findings that fail the security job
+- 🟢 **swagger-api/swagger-parser** [#2412](https://github.com/swagger-api/swagger-parser/pull/2412) fix: resolve 3.1 refs with path template braces in the fragment (#2159)
+- 🟢 **swagger-api/swagger-parser** [#2411](https://github.com/swagger-api/swagger-parser/pull/2411) chore: build and test on JDK 21 and 25 (#2095)
+- 🟢 **swagger-api/swagger-parser** [#2410](https://github.com/swagger-api/swagger-parser/pull/2410) fix: resolve external refs nested in array items of external schemas (#2409)
+- 🟢 **atlassian/openapi-request-validator** [#43](https://github.com/atlassian/openapi-request-validator/pull/43) perf: inject only the schema definitions a compiled schema can reach
 <!-- OSS-PRS:END -->
 
 ---
