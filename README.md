@@ -13,7 +13,7 @@
   <a href="https://vinirib.github.io"><img src="https://img.shields.io/badge/Website-vinirib.github.io-4F46E5?style=for-the-badge&logo=astro&logoColor=white" alt="Website"/></a>
   <a href="https://www.linkedin.com/in/viniciusribeirosp/"><img src="https://img.shields.io/badge/LinkedIn-viniciusribeirosp-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:viniciusribeirosp@gmail.com"><img src="https://img.shields.io/badge/Email-get%20in%20touch-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/vinirib?tab=followers"><img src="https://img.shields.io/github/followers/vinirib?style=for-the-badge&logo=github&label=Follow&color=4F46E5" alt="Follow @vinirib"/></a>
+  <a href="https://github.com/vinirib?tab=followers"><img src="https://img.shields.io/badge/Follow-34-4F46E5?style=for-the-badge&logo=github" alt="Follow @vinirib"/></a>
   <img src="https://komarev.com/ghpvc/?username=vinirib&style=for-the-badge&color=4F46E5&label=Profile+views" alt="Profile views"/>
 </p>
 

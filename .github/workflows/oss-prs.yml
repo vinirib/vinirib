@@ -9,6 +9,7 @@ on:
     paths:
       - .github/oss-projects.json
       - .github/scripts/oss_prs.py
+      - .github/scripts/followers.py
 
 permissions:
   contents: write
@@ -29,12 +30,14 @@ jobs:
         run: python .github/scripts/oss_prs.py README.md
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Update follower badge
+        run: python .github/scripts/followers.py README.md
       - name: Commit if changed
         run: |
           git diff --quiet README.md && exit 0
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -am "docs: refresh open source projects and pull requests"
+          git commit -am "docs: refresh open source projects, pull requests and followers"
           for attempt in 1 2 3; do
             git push && exit 0
             git pull --rebase
