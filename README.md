@@ -56,6 +56,7 @@ I build backend systems that other systems depend on. I care about clean API con
 | **[opensearch-java](https://github.com/opensearch-project/opensearch-java)** | The official Java client for OpenSearch | Thread safety fix in JSON deserialization. 1 PR merged |
 | **[pact-jvm](https://github.com/pact-foundation/pact-jvm)** | Consumer-driven contract testing for the JVM | Consumer DSL and JSON charset fixes, issue triage. 3 PRs merged |
 | **[quarkus](https://github.com/quarkusio/quarkus)** | Kubernetes-native Java framework | Cleaner Maven settings warnings in the build. 1 PR merged |
+| **[json-sKema](https://github.com/erosb/json-sKema)** | JSON Schema Validator for the JVM, implements draft2020-12 | First PRs in review |
 | **[openapi-request-validator](https://github.com/atlassian/openapi-request-validator)** | A Java library for validating request/responses against a OpenAPI / Swagger specification | First PRs in review |
 | **[jboss-logmanager](https://github.com/jboss-logging/jboss-logmanager)** | JBoss Log Manager | First PRs in review |
 <!-- OSS-PROJECTS:END -->
@@ -63,12 +64,12 @@ I build backend systems that other systems depend on. I care about clean API con
 **Latest pull requests**
 
 <!-- OSS-PRS:START -->
+- 🟢 **erosb/json-sKema** [#237](https://github.com/erosb/json-sKema/pull/237) fix: keep equal failures from different instance locations apart
 - 🟢 **OpenAPITools/openapi-generator** [#25648](https://github.com/OpenAPITools/openapi-generator/pull/25648) [Java] Use instantiationTypes when the item helpers create a container
 - 🟢 **swagger-api/swagger-core** [#5373](https://github.com/swagger-api/swagger-core/pull/5373) fix: exclude OpenApiServlet from CDI bean discovery on 2.x
 - 🟢 **swagger-api/swagger-parser** [#2412](https://github.com/swagger-api/swagger-parser/pull/2412) fix: resolve 3.1 refs with path template braces in the fragment (#2159)
 - 🟢 **swagger-api/swagger-parser** [#2411](https://github.com/swagger-api/swagger-parser/pull/2411) chore: build and test on JDK 21 and 25 (#2095)
 - 🟢 **swagger-api/swagger-parser** [#2410](https://github.com/swagger-api/swagger-parser/pull/2410) fix: resolve external refs nested in array items of external schemas (#2409)
-- 🟢 **atlassian/openapi-request-validator** [#43](https://github.com/atlassian/openapi-request-validator/pull/43) perf: inject only the schema definitions a compiled schema can reach
 <!-- OSS-PRS:END -->
 
 ---
