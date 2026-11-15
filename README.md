@@ -65,11 +65,11 @@ I build backend systems that other systems depend on. I care about clean API con
 **Latest pull requests**
 
 <!-- OSS-PRS:START -->
+- 🟢 **OpenAPITools/openapi-generator** [#25648](https://github.com/OpenAPITools/openapi-generator/pull/25648) [Java] Use instantiationTypes when the item helpers create a container
 - 🟢 **genspark-ai/genoffice** [#2720](https://github.com/genspark-ai/genoffice/pull/2720) feat(sheets): add Excel's regex functions and PERCENTOF
 - 🟣 **genspark-ai/genoffice** [#2717](https://github.com/genspark-ai/genoffice/pull/2717) fix(docx-engine): size group children in drawing space
 - 🟢 **swagger-api/swagger-core** [#5373](https://github.com/swagger-api/swagger-core/pull/5373) fix: exclude OpenApiServlet from CDI bean discovery on 2.x
 - 🟢 **erosb/json-sKema** [#237](https://github.com/erosb/json-sKema/pull/237) fix: keep equal failures from different instance locations apart
-- 🟢 **OpenAPITools/openapi-generator** [#25648](https://github.com/OpenAPITools/openapi-generator/pull/25648) [Java] Use instantiationTypes when the item helpers create a container
 - 🟢 **jboss-logging/jboss-logmanager** [#602](https://github.com/jboss-logging/jboss-logmanager/pull/602) Allow JSON values without a key inside an array
 <!-- OSS-PRS:END -->
 
