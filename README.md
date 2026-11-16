@@ -49,7 +49,7 @@ I build backend systems that other systems depend on. I care about clean API con
 | **[idempotence4j](https://github.com/transferwise/idempotence4j)** | Wise's library for idempotent actions | Spring Web module, payload mismatch detection, Java 21/25 build |
 | **[swagger-parser](https://github.com/swagger-api/swagger-parser)** | The OpenAPI parser behind most of the Swagger tooling | OpenAPI 3.1 `$ref` resolution fixes, JDK 21/25 CI |
 | **[swagger-core](https://github.com/swagger-api/swagger-core)** | Generates OpenAPI definitions from Java and Jakarta REST code | CDI bean discovery fix for OpenApiServlet. 1 PR merged |
-| **[floci](https://github.com/floci-io/floci)** | Free, fast local AWS emulator | CloudFront custom origin and Cognito CloudFormation MFA fixes. 3 PRs merged |
+| **[floci](https://github.com/floci-io/floci)** | Free, fast local AWS emulator | CloudFront custom origin and Cognito CloudFormation MFA fixes. 4 PRs merged |
 | **[clauditor](https://github.com/IyadhKhalfallah/clauditor)** | Session and quota tool for Claude Code | Memory crash fix at session start, CI security audit fix |
 | **[claude-mem](https://github.com/thedotmack/claude-mem)** | Persistent memory for coding agents | Folder CLAUDE.md, search date bound and Chroma re-embed fixes. 3 PRs merged |
 | **[openapi-generator](https://github.com/OpenAPITools/openapi-generator)** | Generates clients and servers from OpenAPI specs | Java/Spring generator fixes. 1 PR merged |
@@ -65,8 +65,8 @@ I build backend systems that other systems depend on. I care about clean API con
 **Latest pull requests**
 
 <!-- OSS-PRS:START -->
+- 🟣 **floci-io/floci** [#8581](https://github.com/floci-io/floci/pull/8581) fix(rds): fail fast when the Docker daemon refuses the container create
 - ⚪ **OpenAPITools/openapi-generator** [#25648](https://github.com/OpenAPITools/openapi-generator/pull/25648) [Java] Use instantiationTypes when the item helpers create a container
-- 🟢 **floci-io/floci** [#8581](https://github.com/floci-io/floci/pull/8581) fix(rds): fail fast when the Docker daemon refuses the container create
 - 🟢 **genspark-ai/genoffice** [#2720](https://github.com/genspark-ai/genoffice/pull/2720) feat(sheets): add Excel's regex functions and PERCENTOF
 - 🟢 **jboss-logging/jboss-logmanager** [#602](https://github.com/jboss-logging/jboss-logmanager/pull/602) Allow JSON values without a key inside an array
 - 🟢 **swagger-api/swagger-core** [#5373](https://github.com/swagger-api/swagger-core/pull/5373) fix: exclude OpenApiServlet from CDI bean discovery on 2.x
