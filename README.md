@@ -65,12 +65,12 @@ I build backend systems that other systems depend on. I care about clean API con
 **Latest pull requests**
 
 <!-- OSS-PRS:START -->
+- 🟢 **floci-io/floci** [#8581](https://github.com/floci-io/floci/pull/8581) fix(rds): fail fast when the Docker daemon refuses the container create
 - 🟣 **floci-io/floci** [#7046](https://github.com/floci-io/floci/pull/7046) fix(cloudformation): apply EnabledMfas on AWS::Cognito::UserPool
 - 🟣 **floci-io/floci** [#7088](https://github.com/floci-io/floci/pull/7088) fix(cloudformation): keep SMS_MFA on a user pool update until MFA is turned off
 - 🟢 **genspark-ai/genoffice** [#2720](https://github.com/genspark-ai/genoffice/pull/2720) feat(sheets): add Excel's regex functions and PERCENTOF
 - 🟢 **OpenAPITools/openapi-generator** [#25648](https://github.com/OpenAPITools/openapi-generator/pull/25648) [Java] Use instantiationTypes when the item helpers create a container
 - 🟣 **genspark-ai/genoffice** [#2717](https://github.com/genspark-ai/genoffice/pull/2717) fix(docx-engine): size group children in drawing space
-- 🟢 **swagger-api/swagger-core** [#5373](https://github.com/swagger-api/swagger-core/pull/5373) fix: exclude OpenApiServlet from CDI bean discovery on 2.x
 <!-- OSS-PRS:END -->
 
 ---
