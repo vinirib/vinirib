@@ -65,8 +65,8 @@ I build backend systems that other systems depend on. I care about clean API con
 **Latest pull requests**
 
 <!-- OSS-PRS:START -->
-- 🟢 **pact-foundation/pact-jvm** [#1952](https://github.com/pact-foundation/pact-jvm/pull/1952) feat: add LambdaDslObject.datetime with a LocalDateTime example #1864
 - 🟢 **genspark-ai/genoffice** [#2893](https://github.com/genspark-ai/genoffice/pull/2893) fix(sheets): bump xlsx-engine crates past RUSTSEC advisories
+- 🟢 **pact-foundation/pact-jvm** [#1952](https://github.com/pact-foundation/pact-jvm/pull/1952) feat: add LambdaDslObject.datetime with a LocalDateTime example #1864
 - 🟢 **swagger-api/swagger-parser** [#2410](https://github.com/swagger-api/swagger-parser/pull/2410) fix: resolve external refs nested in array items of external schemas (#2409)
 - 🟢 **swagger-api/swagger-parser** [#2411](https://github.com/swagger-api/swagger-parser/pull/2411) chore: build and test on JDK 21 and 25 (#2095)
 - 🟢 **swagger-api/swagger-parser** [#2412](https://github.com/swagger-api/swagger-parser/pull/2412) fix: resolve 3.1 refs with path template braces in the fragment (#2159)
