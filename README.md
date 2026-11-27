@@ -56,7 +56,7 @@ I build backend systems that other systems depend on. I care about clean API con
 | **[opensearch-java](https://github.com/opensearch-project/opensearch-java)** | The official Java client for OpenSearch | Thread safety fix in JSON deserialization. 1 PR merged |
 | **[pact-jvm](https://github.com/pact-foundation/pact-jvm)** | Consumer-driven contract testing for the JVM | Consumer DSL and JSON charset fixes, issue triage. 4 PRs merged |
 | **[quarkus](https://github.com/quarkusio/quarkus)** | Kubernetes-native Java framework | Cleaner Maven settings warnings in the build. 1 PR merged |
-| **[genoffice](https://github.com/genspark-ai/genoffice)** | Free, open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdown and HTML editors with a built-in AI agent, plus a `genoffice` CLI and agent skill so Claude Code, Codex and Cursor can create and edit real .docx/.xlsx/.pptx files locally. Bring your own key. macOS, Windows & Linux. | 2 PRs merged |
+| **[genoffice](https://github.com/genspark-ai/genoffice)** | Free, open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdown and HTML editors with a built-in AI agent, plus a `genoffice` CLI and agent skill so Claude Code, Codex and Cursor can create and edit real .docx/.xlsx/.pptx files locally. Bring your own key. macOS, Windows & Linux. | 3 PRs merged |
 | **[jboss-logmanager](https://github.com/jboss-logging/jboss-logmanager)** | JBoss Log Manager | First PRs in review |
 | **[json-sKema](https://github.com/erosb/json-sKema)** | JSON Schema Validator for the JVM, implements draft2020-12 | First PRs in review |
 | **[langchain4j-community](https://github.com/langchain4j/langchain4j-community)** | LangChain4j integrations that are maintained by the community | 1 PR merged |
@@ -66,7 +66,7 @@ I build backend systems that other systems depend on. I care about clean API con
 **Latest pull requests**
 
 <!-- OSS-PRS:START -->
-- 🟢 **genspark-ai/genoffice** [#2893](https://github.com/genspark-ai/genoffice/pull/2893) fix(sheets): bump xlsx-engine crates past RUSTSEC advisories
+- 🟣 **genspark-ai/genoffice** [#2893](https://github.com/genspark-ai/genoffice/pull/2893) fix(sheets): bump xlsx-engine crates past RUSTSEC advisories
 - 🟢 **jboss-logging/jboss-logmanager** [#602](https://github.com/jboss-logging/jboss-logmanager/pull/602) Allow JSON values without a key inside an array
 - 🟢 **erosb/json-sKema** [#237](https://github.com/erosb/json-sKema/pull/237) fix: keep equal failures from different instance locations apart
 - 🟣 **pact-foundation/pact-jvm** [#1952](https://github.com/pact-foundation/pact-jvm/pull/1952) feat: add LambdaDslObject.datetime with a LocalDateTime example #1864
