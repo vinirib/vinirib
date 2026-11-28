@@ -66,12 +66,12 @@ I build backend systems that other systems depend on. I care about clean API con
 **Latest pull requests**
 
 <!-- OSS-PRS:START -->
+- 🟢 **floci-io/floci** [#9648](https://github.com/floci-io/floci/pull/9648) fix(cloudformation): apply StreamEncryption on AWS::Kinesis::Stream
+- 🟢 **swagger-api/swagger-core** [#5373](https://github.com/swagger-api/swagger-core/pull/5373) fix: exclude OpenApiServlet from CDI bean discovery on 2.x
 - 🟣 **genspark-ai/genoffice** [#2893](https://github.com/genspark-ai/genoffice/pull/2893) fix(sheets): bump xlsx-engine crates past RUSTSEC advisories
 - 🟢 **jboss-logging/jboss-logmanager** [#602](https://github.com/jboss-logging/jboss-logmanager/pull/602) Allow JSON values without a key inside an array
 - 🟢 **erosb/json-sKema** [#237](https://github.com/erosb/json-sKema/pull/237) fix: keep equal failures from different instance locations apart
 - 🟣 **pact-foundation/pact-jvm** [#1952](https://github.com/pact-foundation/pact-jvm/pull/1952) feat: add LambdaDslObject.datetime with a LocalDateTime example #1864
-- 🟣 **langchain4j/langchain4j-community** [#930](https://github.com/langchain4j/langchain4j-community/pull/930) fix(mcp-server): validate resource uri, accept wildcard prompt return type, clean prompt argument errors
-- 🟢 **swagger-api/swagger-parser** [#2410](https://github.com/swagger-api/swagger-parser/pull/2410) fix: resolve external refs nested in array items of external schemas (#2409)
 <!-- OSS-PRS:END -->
 
 ---
